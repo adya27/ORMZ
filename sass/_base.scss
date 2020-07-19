@@ -1,0 +1,38 @@
+body {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(202, 203, 217, 0.7),
+    rgba(194, 189, 203, 0.7),
+    rgba(186, 175, 190, 0.7),
+    rgba(177, 160, 176, 0.7),
+    rgba(169, 146, 163, 0.7),
+    rgba(161, 132, 149, 0.7),
+    rgba(172, 133, 147, 0.7),
+    rgba(182, 134, 145, 0.7),
+    rgba(193, 135, 143, 0.7),
+    rgba(203, 135, 141, 0.7),
+    rgba(214, 136, 139, 0.7),
+    rgba(224, 137, 137, 0.7)
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h2,
+h3,
+p {
+  text-align: center;
+
+  font-family: "Poiret One", cursive;
+
+  color: white;
+  text-shadow: 1px 1px #732372, 1px -1px #732372, -1px 1px #732372,
+    -1px -1px #732372, 3px 3px 6px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.36;
+  letter-spacing: 0.1em;
+}
